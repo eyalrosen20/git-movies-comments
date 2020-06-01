@@ -1,0 +1,7 @@
+APP_NAME=etai-git-comments
+GCLOUD_PROJECT=etai-dbpedia
+GCLOUD_ORG=259957247587
+GCLOUD_NAME=english-teaching-ai
+GCLOUD_REGION=europe-west4
+GCLOUD_URL=https://etai-public-api-ldkocmrtkq-ez.a.run.app
+LOCAL_PORT=7002
